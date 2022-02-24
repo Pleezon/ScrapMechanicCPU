@@ -1,5 +1,5 @@
 # ScrapMechanicCPU
-ScrapMechanic 4hz 8bit programmable CPU made from over 6000 logic-gates.
+ScrapMechanic 4hz 8bit programmable CPU made from over 6000 logic-gates.  
 Comes with pre-programmed fibonacci and a 7-segment display hooked up to it.
 
 ## Usage
