@@ -1,0 +1,7 @@
+{
+   "description" : "Binary\tOpcode\tDescription\n00000000\tHLT\tHalt\n00000001\tLDA\tLoad from instruction to A\n00000010\tLDB\tLoad from instruction to B\n00000011\tSTA\tStore from A to memory adress\n00000100\tSTB\tStore from B to memory adress\n00000101\tSTC\tStore from C to memory adress\n00000110\tMEA\tLoad from memory to A\n00000111\tMEB\tLoad from memory to B\n00001000\tADD\tA+B=C\n00001001\tSUB\tA-B=C\n00001010\tMUL\tA*B=C\n00001011\tCMP\tCompare A and B into C, if true c=00000001 else c=00000000 || adress 01 = >, adress 00 = <, adress 10 = ==\n00001100\tJMP\tJumps to adress in program memory\n00001101\tJIF\tJumps to adress if C = 00000001\n00001110\tOUT\tOutputs memory adress \n00001111\t\t",
+   "localId" : "40bf2bec-3c48-4694-a034-81a38879a546",
+   "name" : "8 bit computer (4hz) ( PC )",
+   "type" : "Blueprint",
+   "version" : 0
+}
