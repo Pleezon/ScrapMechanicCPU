@@ -33,7 +33,7 @@ To start programming, disable the switch located on the front of the program mem
 
 ## Features  
 #### 256Bit ROM for programming (4bit opcode, 8bit parameter)  
-#### 16Bit adressable RAM  
+#### 16Byte adressable RAM  
 #### 4hz (which is actually pretty fast for Scrap Mechanic)
 #### ALU  
 - CLR adder  
